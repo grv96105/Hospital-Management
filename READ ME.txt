@@ -1,0 +1,15 @@
+# Hospital Management System
+A Hospital Management System using Django Framework  
+
+## Installation
+`
+- Install requirements. `pip install Django==2.2`
+- Make migrations. `python3 manage.py makemigrations`
+- Apply migrations. `python manage.py migrate`
+- Create a super user. `python manage.py createsuperuser`
+- Run the server. `python manage.py runserver`
+
+
+-LOG IN
+ username:admin2
+ password:admin123

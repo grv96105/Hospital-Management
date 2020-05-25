@@ -1,0 +1,20 @@
+#navlink:hover{
+    color:black;
+    background-color: rgb(1, 119, 134);
+    border-radius: 10px ;
+}
+
+
+h1{
+    text-align: center;
+}
+#heading{
+    text-align: center;
+}
+
+#navbrand:hover{
+    color:black;
+    background-color: rgb(128, 98, 0);
+    border-radius: 10px ;
+    font-weight: bold;
+}
