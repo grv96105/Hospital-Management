@@ -13,3 +13,5 @@ A Hospital Management System using Django Framework
 -LOG IN
  username:admin2
  password:admin123
+
+https://github.com/grv96105/Hospital-Management.git
